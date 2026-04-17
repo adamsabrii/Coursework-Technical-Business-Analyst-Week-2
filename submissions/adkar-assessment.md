@@ -4,23 +4,36 @@
 
 ### Agent:
 Awareness – 1
+
 Desire – 2
+
 Knowledge – 1
+
 Ability – 2
+
 Reinforcement – 5
 
 ### Customer:
 Awareness – 2
+
 Desire – 2
+
 Knowledge – 3
+
 Ability – 4
+
 Reinforcement – 3
+
 
 ### Finance and compliance:
 Awareness – 1
+
 Desire – 2
+
 Knowledge – 2
+
 Ability – 4
+
 Reinforcement – 4
 
 ## Practical risks and mitigations
