@@ -1,0 +1,3 @@
+I think the ADKAR risk assessment should be one of the first things done this week because it encourages thinking about the To-Be process a bit more clearly.
+
+I feel like the attitude towards the completion of the coursework feels like it just needs to be completed to an ok standard because there is so much to do and it is the first time doing the course, but I would prefer if there was more emphasis on doing less content but to a higher standard.
